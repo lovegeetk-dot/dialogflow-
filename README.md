@@ -247,15 +247,21 @@ Expected Return:
 
 # Screenshots
 
-## GitHub Repository View
+## Dialogflow GitHub Repository
 
-<img width="1400" alt="GitHub Repository" src="dialogflow-dashboard.png">
+<img width="1400" alt="Dialogflow GitHub Repository" src="dialogflow ss 1.png">
 
 ---
 
-## AI Financial Assistant README Preview
+## Dialogflow README Preview
 
-<img width="1400" alt="Dialogflow README Preview" src="dialogflow-readme-preview.png">
+<img width="1400" alt="Dialogflow README Preview" src="dialogflow ss 2.png">
+
+---
+
+## Dialogflow Project Files
+
+<img width="1400" alt="Dialogflow Project Files" src="dialogflow ss 3.png">
 
 ---
 
