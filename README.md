@@ -247,35 +247,15 @@ Expected Return:
 
 # Screenshots
 
-## Agent Dashboard
+## GitHub Repository View
 
-```text
-Insert Screenshot Here
-```
+<img width="1400" alt="GitHub Repository" src="dialogflow-dashboard.png">
 
 ---
 
-## Loan Eligibility Output
+## AI Financial Assistant README Preview
 
-```text
-Insert Screenshot Here
-```
-
----
-
-## EMI Calculation Output
-
-```text
-Insert Screenshot Here
-```
-
----
-
-## Investment Advice Output
-
-```text
-Insert Screenshot Here
-```
+<img width="1400" alt="Dialogflow README Preview" src="dialogflow-readme-preview.png">
 
 ---
 
